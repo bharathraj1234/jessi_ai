@@ -1,0 +1,9 @@
+python -m venv myenv
+myenv\scripts\activate
+pip install gtts
+pip install playsound
+pip install speachrecognition
+pip install pyaudio
+pip install keyboard
+
+#add api key in creds.py
